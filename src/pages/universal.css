@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.7;
+}
+.universal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fc0011;
+  color: #fff;
+  padding: 20px;
+  margin: 2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  border-radius: 10px;
+}
